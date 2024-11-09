@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sammlung
+comment0.text=\r\n\ A\ set\ of\ methods\ for\ training.\r\n\r\n\ @author\ Porygon\r\n\ @version\ beta1\r\n
+comment1.params=
+comment1.target=Sammlung()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Methoden\r\n
+comment2.params=c\ s
+comment2.target=boolean\ istCharInString(char,\ java.lang.String)
+comment2.text=\r\n\ Check\ for\ the\ existence\ of\ char\ in\ String\r\n\r\n\ @param\ \ c\ ->\ a\ char\ to\ be\ found\ in\ a\ given\ String\r\n\ @param\ s\ ->\ a\ String\ in\ which\ a\ char\ is\ to\ be\ found\r\n\ @return\ \ \ \ boolean(true/false)\ for\ existence\ of\ char\ within\ String\r\n
+comment3.params=c\ s
+comment3.target=int\ mengeAnCharInString(char,\ java.lang.String)
+comment3.text=\r\n\ Check\ for\ the\ amount\ of\ char\ in\ String\r\n\r\n\ @param\ \ c\ ->\ a\ char\ to\ be\ found\ in\ a\ given\ String\r\n\ @param\ s\ ->\ a\ String\ in\ which\ the\ amount\ of\ a\ char\ is\ checked\r\n\ @return\ \ \ \ boolean(true/false)\ for\ existence\ of\ char\ within\ String\r\n
+comment4.params=s
+comment4.target=java.lang.String\ changeLastThreeCharToUpper(java.lang.String)
+comment4.text=\r\n\ Turn\ the\ last\ 3\ character\ of\ a\ String\ to\ UPPERCASE\r\n\r\n\ @param\ s\ ->\ a\ String\ in\ which\ the\ amount\ of\ a\ char\ is\ checked\r\n\ @return\ \ \ \ changed\ String\r\n
+comment5.params=
+comment5.target=void\ loops()
+comment6.params=
+comment6.target=void\ verzweigungen()
+numComments=7
